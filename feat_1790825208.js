@@ -1,0 +1,1 @@
+// feat: add farewell module
