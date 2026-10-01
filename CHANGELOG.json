@@ -1,13 +1,32 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-01T03:19:18Z",
-    "currentVersion": "0.2.0",
+    "lastUpdated": "2026-10-01T03:30:16Z",
+    "currentVersion": "0.3.0",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 2
+    "totalReleases": 3
   },
   "releases": [
+    {
+      "version": "0.3.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-01",
+      "pr_number": null,
+      "raw_summary": "### ✨ Features\n- add module a\n- add farewell module",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ Features",
+          "items": [
+            "add module a",
+            "add farewell module"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "0.2.0",
       "project_types": [

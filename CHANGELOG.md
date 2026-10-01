@@ -1,7 +1,15 @@
 # Changelog
 
-**Current version:** 0.2.0  
-**Last updated:** 2026-10-01T03:19:18Z  
+**Current version:** 0.3.0  
+**Last updated:** 2026-10-01T03:30:16Z  
+
+---
+
+## [0.3.0] - 2026-10-01
+
+**✨ Features**
+- add module a
+- add farewell module
 
 ---
 
