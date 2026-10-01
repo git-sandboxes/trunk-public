@@ -1,7 +1,14 @@
 # Changelog
 
-**Current version:** 0.1.1  
-**Last updated:** 2026-10-01T03:15:34Z  
+**Current version:** 0.2.0  
+**Last updated:** 2026-10-01T03:19:18Z  
+
+---
+
+## [0.2.0] - 2026-10-01
+
+**✨ Features**
+- add greeting module
 
 ---
 

@@ -1,13 +1,31 @@
 {
   "metadata": {
-    "lastUpdated": "2026-10-01T03:15:34Z",
-    "currentVersion": "0.1.1",
+    "lastUpdated": "2026-10-01T03:19:18Z",
+    "currentVersion": "0.2.0",
     "projectTypes": [
       "node"
     ],
-    "totalReleases": 1
+    "totalReleases": 2
   },
   "releases": [
+    {
+      "version": "0.2.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-01",
+      "pr_number": null,
+      "raw_summary": "### ✨ Features\n- add greeting module",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ Features",
+          "items": [
+            "add greeting module"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    },
     {
       "version": "0.1.1",
       "project_types": [
