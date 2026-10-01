@@ -1,7 +1,14 @@
 # Changelog
 
-**Current version:** 0.3.0  
-**Last updated:** 2026-10-01T03:30:16Z  
+**Current version:** 0.3.1  
+**Last updated:** 2026-10-01T04:59:07Z  
+
+---
+
+## [0.3.1] - 2026-10-01
+
+**🔧 Changes**
+- 보호 브랜치 push 안내 수정 반영
 
 ---
 
