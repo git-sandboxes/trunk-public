@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-01T03:15:34Z",
+    "currentVersion": "0.1.1",
+    "projectTypes": [
+      "node"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "0.1.1",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-01",
+      "pr_number": null,
+      "raw_summary": "### 🔧 Changes\n- project-auto-wizard 설치\n- initial node project\n- Initial commit",
+      "parsed_changes": {
+        "changes": {
+          "title": "🔧 Changes",
+          "items": [
+            "project-auto-wizard 설치",
+            "initial node project",
+            "Initial commit"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
